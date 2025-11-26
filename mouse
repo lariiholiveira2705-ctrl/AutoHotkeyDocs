@@ -1,0 +1,5 @@
+; M = botão esquerdo do mouse
+m::LButton
+
+; N = botão direito do mouse
+n::RButton
